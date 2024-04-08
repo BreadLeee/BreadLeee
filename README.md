@@ -3,7 +3,7 @@
 
 ## Information
 - Email - ab42278428@gmail.com
-- [blog](https://breadlee.tistory.com/)
+- blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
