@@ -1,5 +1,5 @@
 ## Introduction
-- My name is Coryeo. I'm college student, and studying computer engineering.
+ My name is Coryeo. I'm college student, and studying computer engineering.
 
 ## Information
 - Email - ab42278428@gmail.com
