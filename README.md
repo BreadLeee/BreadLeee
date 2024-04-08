@@ -1,9 +1,9 @@
 ## Introduction
-- My name is Coryeo. I'm college student.
+- My name is Coryeo. I'm college student, and studying computer engineering.
 
 ## Information
 - Email - ab42278428@gmail.com
-- Tistory(blog) - 
+- [blog](https://breadlee.tistory.com/)
 
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
