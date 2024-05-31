@@ -1,4 +1,4 @@
-![monster](Blue#3.png)
+![Blue#3.png](https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png)
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
