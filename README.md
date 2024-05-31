@@ -6,8 +6,10 @@
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
 <img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png" height="100x">
-<img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Green%232.png" height="100x">
-<img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Red%233.jpeg" height="100x">
+<p align="center">
+ <img src="https://github.com/BreadLeee/BreadLeee/blob/main/Green%232.png" height="100x">
+</p>
+<img align="right" src="https://github.com/BreadLeee/BreadLeee/blob/main/Red%233.jpeg" height="100x">
 
 
 <!--
