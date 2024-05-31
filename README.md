@@ -6,7 +6,7 @@
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
 <p align="center">
- <img src = "https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png", height="100x">
+ <img, align="left" src = "https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png", height="100x">
 </p>
 
 <!--
