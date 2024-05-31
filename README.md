@@ -1,4 +1,4 @@
-![Blue#3](https://github.com/BreadLeee/BreadLeee/issues/1#issue-2328241100)
+![monster](https://github.com/BreadLeee/BreadLeee/issues/1#issue-2328241100/Blue#3.PNG)
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
