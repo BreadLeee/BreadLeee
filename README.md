@@ -5,6 +5,10 @@
 - Email - ab42278428@gmail.com
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
+![ex_screenshot](./blue#3.png)
+
+[출처] 마크다운에서 이미지 넣기|작성자 천동이
+
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
