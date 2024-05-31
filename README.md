@@ -1,4 +1,3 @@
-![Blue#3.png](https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png)
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
@@ -6,7 +5,9 @@
 - Email - ab42278428@gmail.com
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
-
+<p align="center">
+ <img src = "https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png", height="100x">
+</p>
 
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
