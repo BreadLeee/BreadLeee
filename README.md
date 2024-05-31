@@ -1,5 +1,4 @@
-![Blue#3](https://github.com/BreadLeee/BreadLeee/assets/129057848/bb34611b-7ee3-4ea4-aa66-b6574eba4e5e/Blue#3.png">
-
+![Blue#3](https://github.com/BreadLeee/BreadLeee/issues/1#issue-2328241100)
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
