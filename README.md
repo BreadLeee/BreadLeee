@@ -5,7 +5,9 @@
 - Email - ab42278428@gmail.com
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
-![monster](./Blue#3.png)
+<p align="center">
+ <img src = "./Blue#3.png">
+</p>
 
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
