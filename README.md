@@ -1,12 +1,13 @@
+<img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
 <p>
- <img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
-</p>
-## Introduction
+ ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
 ## Information
 - Email - ab42278428@gmail.com
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
+
+</p>
 
 <hr>
 <img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png" height="100x">
