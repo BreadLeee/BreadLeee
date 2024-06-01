@@ -1,5 +1,6 @@
-<img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
-<br>
+<p align="center>
+ <img src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
+</p>
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
