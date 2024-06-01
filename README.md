@@ -1,3 +1,4 @@
+<img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
