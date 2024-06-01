@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
-</p>
+
 ## Introduction
  My name is BreadLee. I'm college student, and studying computer engineering.
 
@@ -9,6 +7,9 @@
 - blog - [BreadLee in coding](https://breadlee.tistory.com/)
 
 <hr>
+<p align="left">
+ <img src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
+</p>
 <img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png" height="100x">
 <img align="right" src="https://github.com/BreadLeee/BreadLeee/blob/main/Red%233.jpeg" height="100x">
 <p align="center">
