@@ -8,9 +8,6 @@
 
 ##
 <img align="left" src="https://github.com/BreadLeee/BreadLeee/blob/main/Hello.gif" height="100x">
-<img align="right" src="https://github.com/BreadLeee/BreadLeee/blob/main/Blue%233.png" height="100x">
-<img align="right" src="https://github.com/BreadLeee/BreadLeee/blob/main/Red%233.jpeg" height="100x">
-<img align="right" src="https://github.com/BreadLeee/BreadLeee/blob/main/Green%232.png" height="100x">
 
 <!--
 **Coryeo/Coryeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
